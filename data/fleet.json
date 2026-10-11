@@ -1,0 +1,13 @@
+[
+  { "type": "ElectricScooter", "id": "VK-001", "name": "Ninebot Max G30", "simplicity": 7, "wearPercentage": 10, "dailyEnergyKwh": 0.8 },
+  { "type": "ElectricBike", "id": "VK-002", "name": "Shengmilo MX02", "simplicity": 5, "wearPercentage": 20, "dailyEnergyKwh": 1.1 },
+  { "type": "Bicycle", "id": "VK-003", "name": "Stels Navigator 300", "simplicity": 9, "wearPercentage": 15 },
+  { "type": "ElectricScooter", "id": "VK-004", "name": "Used scooter from Avito", "simplicity": 6, "wearPercentage": 85, "dailyEnergyKwh": 0.7 },
+  { "type": "ElectricScooter", "id": "VK-005", "name": "Kugoo with swollen battery", "simplicity": 6, "wearPercentage": 5, "dailyEnergyKwh": 2.4 },
+  { "type": "Bicycle", "id": "VK-001", "name": "Duplicate number", "simplicity": 8, "wearPercentage": 0 },
+  { "type": "Monowheel", "id": "VK-006", "name": "Unknown type" },
+  { "type": "Bicycle", "id": "VK-007", "name": "Too hard", "simplicity": 15, "wearPercentage": 0 },
+  { "type": "Helmet", "id": "VK-100", "name": "VyshKat helmet, size M" },
+  { "type": "DockStation", "id": "VK-101", "name": "Dock at Pokrovka building", "dailyEnergyKwh": 3.5 },
+  { "type": "ChargingCabinet", "id": "VK-102", "name": "Cabinet for 12 batteries", "dailyEnergyKwh": 2.0 }
+]

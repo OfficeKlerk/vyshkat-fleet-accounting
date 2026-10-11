@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVyshKat", "MyVyshKat\MyVyshKat.csproj", "{7A13AA89-7453-4716-A354-1F07B7E04804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVyshKat.Tests", "MyVyshKat.Tests\MyVyshKat.Tests.csproj", "{D0DAD902-307A-451C-A844-002B13D41733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A13AA89-7453-4716-A354-1F07B7E04804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13AA89-7453-4716-A354-1F07B7E04804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A13AA89-7453-4716-A354-1F07B7E04804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A13AA89-7453-4716-A354-1F07B7E04804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DAD902-307A-451C-A844-002B13D41733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DAD902-307A-451C-A844-002B13D41733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DAD902-307A-451C-A844-002B13D41733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DAD902-307A-451C-A844-002B13D41733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
