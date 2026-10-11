@@ -334,13 +334,12 @@ dotnet test --collect:"XPlat Code Coverage"
 - `IServiceCenter`, `InspectionResult`, `Fleet` с проверкой уникального номера, `FleetReports`, `IBeginnerRule` и `SimplicityRule`;
 - выбор загрузки из JSON с полем-дискриминатором `type`, интерфейс фабрики и базовый класс `ItemFactory` для устранения дублирования;
 - разделение проекта на три слоя.
+- регистрация в `DependencyInjection`
 
 **Написано ИИ по моей просьбе:**
 
 - `Bicycle`, `ElectricScooter`, `ElectricBike`, помощник `EnergyValidation`;
 - доработка `ServiceCenter`: раздельные лимиты для транспорта и вещей, тексты причин отказа;
-- большая часть фабрик, `JsonInventoryLoader`, `LoadResult`, `JsonElementExtensions`;
-- регистрация в `DependencyInjection`, `ConsoleMenu`, `Program.cs`;
+- `JsonInventoryLoader`, `LoadResult`, `JsonElementExtensions`;
+- `ConsoleMenu`, `Program.cs`;
 - проект тестов целиком, демо-данные в `data/`, этот README.
-
-**Изменено и проверено мной после ИИ:** _дополнить перед сдачей — что проверил, переписал или упростил сам._
