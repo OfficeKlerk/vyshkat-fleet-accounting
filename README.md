@@ -334,7 +334,7 @@ dotnet test --collect:"XPlat Code Coverage"
 - `IServiceCenter`, `InspectionResult`, `Fleet` с проверкой уникального номера, `FleetReports`, `IBeginnerRule` и `SimplicityRule`;
 - выбор загрузки из JSON с полем-дискриминатором `type`, интерфейс фабрики и базовый класс `ItemFactory` для устранения дублирования;
 - разделение проекта на три слоя.
-- регистрация в `DependencyInjection`
+- регистрация в `DependencyInjection`;
 
 **Написано ИИ по моей просьбе:**
 
